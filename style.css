@@ -1,0 +1,195 @@
+@import url("https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hind+Vadodara:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+.banner{
+	border-radius: 25px;
+    border: 2px solid;
+    width: 50%;
+    height: 70%
+    padding: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 26%;
+    text-align: center;
+    background-color: #CDF0EA;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Leckerli One', cursive;
+    color: #F38BA0
+}
+
+p {
+	font-size: 15px;
+  font-family: 'Hind Vadodara', sans-serif;
+  font-style: italic;
+  color: #9E7777
+}
+
+.banner-outer:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.bg {
+	background-color: #04AF71;
+}
+
+button {
+   border: none;
+  background-color: #F39189;
+  box-shadow: 0px 5px 0px 0px #BB8082;
+  outline: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  font-size: 22px;
+  text-decoration: none;
+  margin: 20px;
+  color: #fff;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+button:active {
+  transform: translate(0px, 5px);
+  -webkit-transform: translate(0px, 5px);
+  box-shadow: 0px 1px 0px 0px;
+}
+
+.bnr-score p, .bnr-score span, .bnr-time p, .bnr-time span {
+    font-size: 30px;
+    font-family: 'Caveat', cursive;
+    color: #F38BA0
+}
+
+.bnr-words {
+	margin-top: 50px;
+}
+
+.words span{
+    font-size: 60px;
+    letter-spacing: 1px;
+    color: #9E7777;
+}
+
+.body {
+  background-image: linear-gradient(to right bottom, #ff00de, #e600e3, #ca00e7, #aa00eb, #8300ef, #594efe, #296eff, #0086ff, #00b3ff, #00d6ff, #00efa9, #0cff00);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @import url("https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hind+Vadodara:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+
+#banner {
+  background-color: #CDF0EA;
+  border-radius: 25px;
+  border: 2px solid;
+  width: 50%;
+  height: 70%
+  padding: 300px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 26%;
+  text-align: center;
+}
+
+button {
+    border: none;
+   background-color: #FF7373;
+   box-shadow: 0px 5px 0px 0px #CE4646;
+   outline: none;
+   border-radius: 5px;
+   padding: 10px 15px;
+   font-size: 22px;
+   text-decoration: none;
+   margin: 20px;
+   color: #fff;
+   position: relative;
+   display: inline-block;
+   cursor: pointer;
+ }
+.banner-text h2{
+  font-size: 50px;
+  font-family: 'Leckerli One', cursive;
+  color: #F38BA0
+}
+
+.banner-text p{
+  font-size: 15px;
+  font-family: 'Hind Vadodara', sans-serif;
+  font-style: italic;
+  color: #9E7777
+}
+
+.banner-text h4{
+  font-family: 'Caveat', cursive;
+  color: #F38BA0
+} */
